@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Awesome-Slider/static/css/main.16f6ee5c.chunk.css",
+    "main.js": "/React-Awesome-Slider/static/js/main.6e07cd22.chunk.js",
+    "main.js.map": "/React-Awesome-Slider/static/js/main.6e07cd22.chunk.js.map",
+    "runtime-main.js": "/React-Awesome-Slider/static/js/runtime-main.cbcc03ca.js",
+    "runtime-main.js.map": "/React-Awesome-Slider/static/js/runtime-main.cbcc03ca.js.map",
+    "static/js/2.090a0a41.chunk.js": "/React-Awesome-Slider/static/js/2.090a0a41.chunk.js",
+    "static/js/2.090a0a41.chunk.js.map": "/React-Awesome-Slider/static/js/2.090a0a41.chunk.js.map",
+    "index.html": "/React-Awesome-Slider/index.html",
+    "static/css/main.16f6ee5c.chunk.css.map": "/React-Awesome-Slider/static/css/main.16f6ee5c.chunk.css.map",
+    "static/js/2.090a0a41.chunk.js.LICENSE.txt": "/React-Awesome-Slider/static/js/2.090a0a41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbcc03ca.js",
+    "static/js/2.090a0a41.chunk.js",
+    "static/css/main.16f6ee5c.chunk.css",
+    "static/js/main.6e07cd22.chunk.js"
+  ]
+}
